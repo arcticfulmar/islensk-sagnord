@@ -5,7 +5,7 @@ A web-based flashcard tool for practicing Icelandic verb conjugations.
 ## Features
 
 - Browse verbs in infinitive form with difficulty indicators
-- View conjugations for different tenses (Nútið, Þátið, Lysingaháttur Þátiðar)
+- View conjugations for different tenses (Nútið, Þátið, Lýsingarháttur Þátiðar)
 - Practice mode with random pronoun/tense combinations
 - Responsive design (grid on desktop, list on mobile)
 
