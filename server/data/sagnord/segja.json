@@ -1,0 +1,61 @@
+{
+  "íslensku": "að segja",
+  "ensku": "to say",
+  "difficulty": 3,
+  "group": 2,
+  "nútið": [
+    {
+      "pronoun": "Ég",
+      "conjugation": "segi"
+    },
+    {
+      "pronoun": "Þú",
+      "conjugation": "segir"
+    },
+    {
+      "pronoun": "Hann/Hún/Það",
+      "conjugation": "segir"
+    },
+    {
+      "pronoun": "Við",
+      "conjugation": "segjum"
+    },
+    {
+      "pronoun": "Þið",
+      "conjugation": "segið"
+    },
+    {
+      "pronoun": "Þeir/Þær/Þau",
+      "conjugation": "segja"
+    }
+  ],
+  "þátið": [
+    {
+      "pronoun": "Ég",
+      "conjugation": "sagði"
+    },
+    {
+      "pronoun": "Þú",
+      "conjugation": "sagðir"
+    },
+    {
+      "pronoun": "Hann/Hún/Það",
+      "conjugation": "sagði"
+    },
+    {
+      "pronoun": "Við",
+      "conjugation": "sögðum"
+    },
+    {
+      "pronoun": "Þið",
+      "conjugation": "sögðuð"
+    },
+    {
+      "pronoun": "Þeir/Þær/Þau",
+      "conjugation": "sögðu"
+    }
+  ],
+  "lþ": {
+    "conjugation": "sagt"
+  }
+}

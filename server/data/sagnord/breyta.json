@@ -1,0 +1,61 @@
+{
+  "íslensku": "að breyta",
+  "ensku": "to change",
+  "difficulty": 2,
+  "group": 2,
+  "nútið": [
+    {
+      "pronoun": "Ég",
+      "conjugation": "breyti"
+    },
+    {
+      "pronoun": "Þú",
+      "conjugation": "breytir"
+    },
+    {
+      "pronoun": "Hann/Hún/Það",
+      "conjugation": "breytir"
+    },
+    {
+      "pronoun": "Við",
+      "conjugation": "breytum"
+    },
+    {
+      "pronoun": "Þið",
+      "conjugation": "breytið"
+    },
+    {
+      "pronoun": "Þeir/Þær/Þau",
+      "conjugation": "breyta"
+    }
+  ],
+  "þátið": [
+    {
+      "pronoun": "Ég",
+      "conjugation": "breytti"
+    },
+    {
+      "pronoun": "Þú",
+      "conjugation": "breyttir"
+    },
+    {
+      "pronoun": "Hann/Hún/Það",
+      "conjugation": "breytti"
+    },
+    {
+      "pronoun": "Við",
+      "conjugation": "breyttum"
+    },
+    {
+      "pronoun": "Þið",
+      "conjugation": "breyttuð"
+    },
+    {
+      "pronoun": "Þeir/Þær/Þau",
+      "conjugation": "breyttu"
+    }
+  ],
+  "lþ": {
+    "conjugation": "breytt"
+  }
+}

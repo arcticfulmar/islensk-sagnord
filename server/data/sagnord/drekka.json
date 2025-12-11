@@ -1,0 +1,61 @@
+{
+  "íslensku": "að drekka",
+  "ensku": "to drink",
+  "difficulty": 3,
+  "group": 3,
+  "nútið": [
+    {
+      "pronoun": "Ég",
+      "conjugation": "drekk"
+    },
+    {
+      "pronoun": "Þú",
+      "conjugation": "drekkur"
+    },
+    {
+      "pronoun": "Hann/Hún/Það",
+      "conjugation": "drekkur"
+    },
+    {
+      "pronoun": "Við",
+      "conjugation": "drekkum"
+    },
+    {
+      "pronoun": "Þið",
+      "conjugation": "drekkið"
+    },
+    {
+      "pronoun": "Þeir/Þær/Þau",
+      "conjugation": "drekka"
+    }
+  ],
+  "þátið": [
+    {
+      "pronoun": "Ég",
+      "conjugation": "drakk"
+    },
+    {
+      "pronoun": "Þú",
+      "conjugation": "drakkst"
+    },
+    {
+      "pronoun": "Hann/Hún/Það",
+      "conjugation": "drakk"
+    },
+    {
+      "pronoun": "Við",
+      "conjugation": "drukkum"
+    },
+    {
+      "pronoun": "Þið",
+      "conjugation": "drukkuð"
+    },
+    {
+      "pronoun": "Þeir/Þær/Þau",
+      "conjugation": "drukku"
+    }
+  ],
+  "lþ": {
+    "conjugation": "drukkið"
+  }
+}

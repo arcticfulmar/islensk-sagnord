@@ -1,0 +1,61 @@
+{
+  "íslensku": "að skipta",
+  "ensku": "to divide/exchange",
+  "difficulty": 3,
+  "group": 2,
+  "nútið": [
+    {
+      "pronoun": "Ég",
+      "conjugation": "skipti"
+    },
+    {
+      "pronoun": "Þú",
+      "conjugation": "skiptir"
+    },
+    {
+      "pronoun": "Hann/Hún/Það",
+      "conjugation": "skiptir"
+    },
+    {
+      "pronoun": "Við",
+      "conjugation": "skiptum"
+    },
+    {
+      "pronoun": "Þið",
+      "conjugation": "skiptið"
+    },
+    {
+      "pronoun": "Þeir/Þær/Þau",
+      "conjugation": "skipta"
+    }
+  ],
+  "þátið": [
+    {
+      "pronoun": "Ég",
+      "conjugation": "skipti"
+    },
+    {
+      "pronoun": "Þú",
+      "conjugation": "skiptir"
+    },
+    {
+      "pronoun": "Hann/Hún/Það",
+      "conjugation": "skipti"
+    },
+    {
+      "pronoun": "Við",
+      "conjugation": "skiptum"
+    },
+    {
+      "pronoun": "Þið",
+      "conjugation": "skiptuð"
+    },
+    {
+      "pronoun": "Þeir/Þær/Þau",
+      "conjugation": "skiptu"
+    }
+  ],
+  "lþ": {
+    "conjugation": "skipt"
+  }
+}
