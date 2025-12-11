@@ -2,99 +2,85 @@
 
 ## First Time Setup
 
-1. **Install server dependencies:**
-   ```bash
-   cd /Users/titus/Documents/Verbs
-   npm install
-   ```
+**Install dependencies:**
+```bash
+npm install
+```
 
-2. **Install client dependencies:**
-   ```bash
-   cd client
-   npm install
-   cd ..
-   ```
-
-   Or use the convenience script:
-   ```bash
-   npm run install-all
-   ```
+This will install all React app dependencies in the `client` folder.
 
 ## Running the Application
 
-### Development Mode (Recommended)
+### Development Mode
 
-Run both server and client together:
+Run the React app in development mode:
 ```bash
-npm run dev
+npm start
 ```
 
-This will start:
-- Express server on http://localhost:3001
-- React development server on http://localhost:3000
+This will start the React development server on http://localhost:3000
 
 Open http://localhost:3000 in your browser.
 
-### Running Separately
-
-**Server only:**
-```bash
-npm run server
-```
-
-**Client only:**
-```bash
-npm run client
-```
-
 ## Production Build
 
-1. Build the React app:
-   ```bash
-   npm run build
-   ```
+Build the React app for production:
+```bash
+npm run build
+```
 
-2. Start the server (serves built React app):
-   ```bash
-   npm start
-   ```
+This creates an optimized production build in `client/build/` ready for deployment.
 
-Visit http://localhost:3001
+To test the production build locally:
+```bash
+cd client/build
+npx serve -s .
+```
+
+## Deployment
+
+The application is now a single-page React app with no backend server required. You can deploy the `client/build` folder to any static hosting service:
+
+- **Netlify**: Drag and drop the `client/build` folder
+- **Vercel**: Run `vercel` in the project root
+- **GitHub Pages**: Push the build folder to a `gh-pages` branch
+- **Any static host**: Upload the contents of `client/build`
 
 ## Project Structure
 
 ```
-Verbs/
-├── package.json              # Server dependencies
+islensk-sagnord/
+├── package.json              # Root package scripts
 ├── README.md                 # Main documentation
 ├── QUICKSTART.md            # This file
-├── server/
-│   ├── index.js             # Express server
-│   └── data/                # Verb JSON files
-│       ├── ad-vera.json
-│       ├── ad-hafa.json
-│       ├── ad-gera.json
-│       ├── ad-fara.json
-│       ├── ad-koma.json
-│       └── ad-sja.json
 └── client/
-    ├── package.json         # Client dependencies
+    ├── package.json         # React app dependencies
     ├── public/
     │   └── index.html
     └── src/
         ├── index.js
-        ├── index.css
         ├── App.js
         ├── App.css
-        └── components/
-            ├── Overview.js          # Main verb list page
-            ├── VerbConjugation.js   # Conjugation tables
-            └── VerbPractice.js      # Practice mode
+        ├── components/
+        │   ├── Overview.js          # Main verb list page
+        │   ├── VerbConjugation.js   # Conjugation tables
+        │   ├── VerbPractice.js      # Practice mode
+        │   └── Footer.js
+        ├── data/
+        │   └── sagnord/            # Verb JSON files
+        │       ├── vera.json
+        │       ├── hafa.json
+        │       ├── fara.json
+        │       └── ... (25 verbs total)
+        ├── services/
+        │   └── verbService.js      # Data access layer
+        └── utils/
+            └── commonData.js
 ```
 
 ## Adding New Verbs
 
-Create a new JSON file in `server/data/` following this schema:
+1. Create a new JSON file in `client/src/data/sagnord/` following this schema:
 
 ```json
 {
@@ -111,13 +97,28 @@ Create a new JSON file in `server/data/` following this schema:
     ...
   ],
   "lþ": {
+## Adding New Verbs
+
+1. Create a new JSON file in `client/src/data/sagnord/` following this schema:
+
+```json
+{
+  "íslensku": "að vera",
+  "ensku": "to be",
+  "difficulty": 1,
+  "group": 1,
+  "nútið": [...],
+  "þátið": [...],
+  "lþ": {
     "conjugation": "...",
     "pronouns": ["Ég hef", "Þú hefur", ...]
   }
 }
 ```
 
-The server will automatically pick up new files on restart.
+2. **That's it!** Restart the development server and your new verb will be automatically included.
+
+The `verbService.js` uses webpack's `require.context` to automatically detect and load all `.json` files in the directory - no manual imports required!
 
 ## Features
 
@@ -127,17 +128,14 @@ The server will automatically pick up new files on restart.
 ✅ Collapsible tense sections
 ✅ Random practice mode
 ✅ Clean, flat design with bold colors
-✅ No database required - JSON file-based
+✅ No database or backend server required - all data bundled in the React app
 
 ## Troubleshooting
 
-**Port already in use:**
-- Server uses port 3001, client uses port 3000
-- Change ports in `server/index.js` and `client/package.json` if needed
-
 **Dependencies not found:**
-- Run `npm run install-all` from the root directory
+- Run `npm install` from the root directory
 
 **Verb not showing:**
-- Check JSON file syntax in `server/data/`
-- Restart the server after adding new verbs
+- Check JSON file syntax in `client/src/data/sagnord/`
+- Ensure the verb is imported and added to the `verbDataMap` in `verbService.js`
+- Restart the development server

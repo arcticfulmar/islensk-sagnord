@@ -1,0 +1,61 @@
+{
+  "íslensku": "að skrifa",
+  "ensku": "to write",
+  "difficulty": 1,
+  "group": 1,
+  "nútið": [
+    {
+      "pronoun": "Ég",
+      "conjugation": "skrifa"
+    },
+    {
+      "pronoun": "Þú",
+      "conjugation": "skrifar"
+    },
+    {
+      "pronoun": "Hann/Hún/Það",
+      "conjugation": "skrifar"
+    },
+    {
+      "pronoun": "Við",
+      "conjugation": "skrifum"
+    },
+    {
+      "pronoun": "Þið",
+      "conjugation": "skrifið"
+    },
+    {
+      "pronoun": "Þeir/Þær/Þau",
+      "conjugation": "skrifa"
+    }
+  ],
+  "þátið": [
+    {
+      "pronoun": "Ég",
+      "conjugation": "skrifaði"
+    },
+    {
+      "pronoun": "Þú",
+      "conjugation": "skrifaðir"
+    },
+    {
+      "pronoun": "Hann/Hún/Það",
+      "conjugation": "skrifaði"
+    },
+    {
+      "pronoun": "Við",
+      "conjugation": "skrifuðum"
+    },
+    {
+      "pronoun": "Þið",
+      "conjugation": "skrifuðuð"
+    },
+    {
+      "pronoun": "Þeir/Þær/Þau",
+      "conjugation": "skrifuðu"
+    }
+  ],
+  "lþ": {
+    "conjugation": "skrifað"
+  }
+}

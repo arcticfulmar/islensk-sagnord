@@ -1,0 +1,60 @@
+{
+  "íslensku": "að þurfa",
+  "ensku": "to need/must",
+  "difficulty": 3,
+  "nútið": [
+    {
+      "pronoun": "Ég",
+      "conjugation": "þarf"
+    },
+    {
+      "pronoun": "Þú",
+      "conjugation": "þarft"
+    },
+    {
+      "pronoun": "Hann/Hún/Það",
+      "conjugation": "þarf"
+    },
+    {
+      "pronoun": "Við",
+      "conjugation": "þurfum"
+    },
+    {
+      "pronoun": "Þið",
+      "conjugation": "þurfið"
+    },
+    {
+      "pronoun": "Þeir/Þær/Þau",
+      "conjugation": "þurfa"
+    }
+  ],
+  "þátið": [
+    {
+      "pronoun": "Ég",
+      "conjugation": "þurfti"
+    },
+    {
+      "pronoun": "Þú",
+      "conjugation": "þurftir"
+    },
+    {
+      "pronoun": "Hann/Hún/Það",
+      "conjugation": "þurfti"
+    },
+    {
+      "pronoun": "Við",
+      "conjugation": "þurftum"
+    },
+    {
+      "pronoun": "Þið",
+      "conjugation": "þurftuð"
+    },
+    {
+      "pronoun": "Þeir/Þær/Þau",
+      "conjugation": "þurftu"
+    }
+  ],
+  "lþ": {
+    "conjugation": "þurft"
+  }
+}

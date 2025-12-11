@@ -1,0 +1,61 @@
+{
+  "íslensku": "að hlusta",
+  "ensku": "to listen",
+  "difficulty": 1,
+  "group": 1,
+  "nútið": [
+    {
+      "pronoun": "Ég",
+      "conjugation": "hlusta"
+    },
+    {
+      "pronoun": "Þú",
+      "conjugation": "hlustar"
+    },
+    {
+      "pronoun": "Hann/Hún/Það",
+      "conjugation": "hlustar"
+    },
+    {
+      "pronoun": "Við",
+      "conjugation": "hlustum"
+    },
+    {
+      "pronoun": "Þið",
+      "conjugation": "hlustið"
+    },
+    {
+      "pronoun": "Þeir/Þær/Þau",
+      "conjugation": "hlusta"
+    }
+  ],
+  "þátið": [
+    {
+      "pronoun": "Ég",
+      "conjugation": "hlustaði"
+    },
+    {
+      "pronoun": "Þú",
+      "conjugation": "hlustaðir"
+    },
+    {
+      "pronoun": "Hann/Hún/Það",
+      "conjugation": "hlustaði"
+    },
+    {
+      "pronoun": "Við",
+      "conjugation": "hlustuðum"
+    },
+    {
+      "pronoun": "Þið",
+      "conjugation": "hlustuðuð"
+    },
+    {
+      "pronoun": "Þeir/Þær/Þau",
+      "conjugation": "hlustuðu"
+    }
+  ],
+  "lþ": {
+    "conjugation": "hlustað"
+  }
+}

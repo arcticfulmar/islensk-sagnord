@@ -1,0 +1,61 @@
+{
+  "íslensku": "að geta",
+  "ensku": "to be able/can",
+  "difficulty": 3,
+  "group": 3,
+  "nútið": [
+    {
+      "pronoun": "Ég",
+      "conjugation": "get"
+    },
+    {
+      "pronoun": "Þú",
+      "conjugation": "getur"
+    },
+    {
+      "pronoun": "Hann/Hún/Það",
+      "conjugation": "getur"
+    },
+    {
+      "pronoun": "Við",
+      "conjugation": "getum"
+    },
+    {
+      "pronoun": "Þið",
+      "conjugation": "getið"
+    },
+    {
+      "pronoun": "Þeir/Þær/Þau",
+      "conjugation": "geta"
+    }
+  ],
+  "þátið": [
+    {
+      "pronoun": "Ég",
+      "conjugation": "gat"
+    },
+    {
+      "pronoun": "Þú",
+      "conjugation": "gast"
+    },
+    {
+      "pronoun": "Hann/Hún/Það",
+      "conjugation": "gat"
+    },
+    {
+      "pronoun": "Við",
+      "conjugation": "gátum"
+    },
+    {
+      "pronoun": "Þið",
+      "conjugation": "gátuð"
+    },
+    {
+      "pronoun": "Þeir/Þær/Þau",
+      "conjugation": "gátu"
+    }
+  ],
+  "lþ": {
+    "conjugation": "getað"
+  }
+}

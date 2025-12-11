@@ -11,55 +11,58 @@ A web-based flashcard tool for practicing Icelandic verb conjugations.
 
 ## Installation
 
-1. Install all dependencies:
+Install dependencies:
 ```bash
-npm run install-all
+npm install
 ```
 
 ## Development
 
-Run both server and client in development mode:
-```bash
-npm run dev
-```
-
-Or run them separately:
-- Server: `npm run server` (runs on port 3001)
-- Client: `npm run client` (runs on port 3000)
-
-## Production
-
-1. Build the client:
-```bash
-npm run build
-```
-
-2. Start the server:
+Run the app in development mode:
 ```bash
 npm start
 ```
 
-The server will serve the built React app on port 3001.
+The app will open at [http://localhost:3000](http://localhost:3000).
+
+## Production
+
+Build the app for production:
+```bash
+npm run build
+```
+
+This creates an optimized production build in the `client/build` folder, ready to be deployed to any static hosting service (Netlify, Vercel, GitHub Pages, etc.).
+
+To test the production build locally:
+```bash
+cd client/build
+npx serve -s .
+```
 
 ## Project Structure
 
 ```
-Verbs/
-├── server/
-│   ├── index.js          # Express server
-│   └── data/             # Verb JSON files
+islensk-sagnord/
 ├── client/
 │   ├── public/
 │   └── src/
-│       ├── components/   # React components
+│       ├── components/      # React components
+│       ├── data/
+│       │   └── sagnord/    # Verb JSON files
+│       ├── services/
+│       │   └── verbService.js  # Data access layer
+│       ├── utils/
 │       ├── App.js
 │       └── index.js
+├── server/                  # (Legacy - no longer used)
+│   └── data/               # Original verb data files
 └── package.json
 ```
 
 ## Adding Verbs
 
-Add new verb JSON files to `server/data/` following this schema:
+Simply add new verb JSON files to `client/src/data/sagnord/` following this schema:
 
 ```json
 {
@@ -72,3 +75,5 @@ Add new verb JSON files to `server/data/` following this schema:
   "lþ": {...}
 }
 ```
+
+**That's it!** The `verbService.js` automatically detects and loads all `.json` files in the `sagnord` directory using webpack's `require.context`. No manual imports needed - just add the JSON file and restart the dev server.

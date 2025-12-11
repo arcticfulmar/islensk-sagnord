@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import Footer from './Footer';
 import { getDifficultyEmoji } from '../utils/commonData';
+import { getAllVerbs } from '../services/verbService';
 
 function Overview() {
   const [verbs, setVerbs] = useState([]);
@@ -10,11 +11,7 @@ function Overview() {
   const navigate = useNavigate();
 
   useEffect(() => {
-    fetch('/api/verbs')
-      .then(response => {
-        if (!response.ok) throw new Error('Failed to fetch verbs');
-        return response.json();
-      })
+    getAllVerbs()
       .then(data => {
         setVerbs(data);
         setLoading(false);

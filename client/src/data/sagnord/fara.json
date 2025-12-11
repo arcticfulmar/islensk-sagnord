@@ -1,0 +1,61 @@
+{
+  "íslensku": "að fara",
+  "ensku": "to go",
+  "difficulty": 3,
+  "group": 5,
+  "nútið": [
+    {
+      "pronoun": "Ég",
+      "conjugation": "fer"
+    },
+    {
+      "pronoun": "Þú",
+      "conjugation": "ferð"
+    },
+    {
+      "pronoun": "Hann/Hún/Það",
+      "conjugation": "fer"
+    },
+    {
+      "pronoun": "Við",
+      "conjugation": "förum"
+    },
+    {
+      "pronoun": "Þið",
+      "conjugation": "farið"
+    },
+    {
+      "pronoun": "Þeir/Þær/Þau",
+      "conjugation": "fara"
+    }
+  ],
+  "þátið": [
+    {
+      "pronoun": "Ég",
+      "conjugation": "fór"
+    },
+    {
+      "pronoun": "Þú",
+      "conjugation": "fórst"
+    },
+    {
+      "pronoun": "Hann/Hún/Það",
+      "conjugation": "fór"
+    },
+    {
+      "pronoun": "Við",
+      "conjugation": "fórum"
+    },
+    {
+      "pronoun": "Þið",
+      "conjugation": "fóruð"
+    },
+    {
+      "pronoun": "Þeir/Þær/Þau",
+      "conjugation": "fóru"
+    }
+  ],
+  "lþ": {
+    "conjugation": "farið"
+  }
+}

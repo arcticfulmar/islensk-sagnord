@@ -1,0 +1,61 @@
+{
+  "íslensku": "að ganga",
+  "ensku": "to walk",
+  "difficulty": 4,
+  "group": 3,
+  "nútið": [
+    {
+      "pronoun": "Ég",
+      "conjugation": "geng"
+    },
+    {
+      "pronoun": "Þú",
+      "conjugation": "gengur"
+    },
+    {
+      "pronoun": "Hann/Hún/Það",
+      "conjugation": "gengur"
+    },
+    {
+      "pronoun": "Við",
+      "conjugation": "göngum"
+    },
+    {
+      "pronoun": "Þið",
+      "conjugation": "gangið"
+    },
+    {
+      "pronoun": "Þeir/Þær/Þau",
+      "conjugation": "ganga"
+    }
+  ],
+  "þátið": [
+    {
+      "pronoun": "Ég",
+      "conjugation": "gekk"
+    },
+    {
+      "pronoun": "Þú",
+      "conjugation": "gekkst"
+    },
+    {
+      "pronoun": "Hann/Hún/Það",
+      "conjugation": "gekk"
+    },
+    {
+      "pronoun": "Við",
+      "conjugation": "gengum"
+    },
+    {
+      "pronoun": "Þið",
+      "conjugation": "genguð"
+    },
+    {
+      "pronoun": "Þeir/Þær/Þau",
+      "conjugation": "gengu"
+    }
+  ],
+  "lþ": {
+    "conjugation": "gengið"
+  }
+}

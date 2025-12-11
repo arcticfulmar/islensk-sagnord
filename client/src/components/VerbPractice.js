@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import Footer from './Footer';
 import { COMMON_PRONOUNS, getDifficultyEmoji } from '../utils/commonData';
+import { getVerbById } from '../services/verbService';
 
 function VerbPractice() {
   const { id } = useParams();
@@ -14,11 +15,7 @@ function VerbPractice() {
   const [tenseFilter, setTenseFilter] = useState('random');
 
   useEffect(() => {
-    fetch(`/api/verbs/${id}`)
-      .then(response => {
-        if (!response.ok) throw new Error('Verb not found');
-        return response.json();
-      })
+    getVerbById(id)
       .then(data => {
         setVerb(data);
         generatePracticeItems(data);

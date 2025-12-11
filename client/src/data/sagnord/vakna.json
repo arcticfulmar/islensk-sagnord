@@ -1,0 +1,61 @@
+{
+  "íslensku": "að vakna",
+  "ensku": "to wake up",
+  "difficulty": 1,
+  "group": 1,
+  "nútið": [
+    {
+      "pronoun": "Ég",
+      "conjugation": "vakna"
+    },
+    {
+      "pronoun": "Þú",
+      "conjugation": "vaknar"
+    },
+    {
+      "pronoun": "Hann/Hún/Það",
+      "conjugation": "vaknar"
+    },
+    {
+      "pronoun": "Við",
+      "conjugation": "vöknum"
+    },
+    {
+      "pronoun": "Þið",
+      "conjugation": "vaknið"
+    },
+    {
+      "pronoun": "Þeir/Þær/Þau",
+      "conjugation": "vakna"
+    }
+  ],
+  "þátið": [
+    {
+      "pronoun": "Ég",
+      "conjugation": "vaknaði"
+    },
+    {
+      "pronoun": "Þú",
+      "conjugation": "vaknaðir"
+    },
+    {
+      "pronoun": "Hann/Hún/Það",
+      "conjugation": "vaknaði"
+    },
+    {
+      "pronoun": "Við",
+      "conjugation": "vöknuðum"
+    },
+    {
+      "pronoun": "Þið",
+      "conjugation": "vöknuðuð"
+    },
+    {
+      "pronoun": "Þeir/Þær/Þau",
+      "conjugation": "vöknuðu"
+    }
+  ],
+  "lþ": {
+    "conjugation": "vaknað"
+  }
+}

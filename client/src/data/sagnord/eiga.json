@@ -1,0 +1,60 @@
+{
+  "íslensku": "að eiga",
+  "ensku": "to own/have",
+  "difficulty": 5,
+  "nútið": [
+    {
+      "pronoun": "Ég",
+      "conjugation": "á"
+    },
+    {
+      "pronoun": "Þú",
+      "conjugation": "átt"
+    },
+    {
+      "pronoun": "Hann/Hún/Það",
+      "conjugation": "á"
+    },
+    {
+      "pronoun": "Við",
+      "conjugation": "eigum"
+    },
+    {
+      "pronoun": "Þið",
+      "conjugation": "eigið"
+    },
+    {
+      "pronoun": "Þeir/Þær/Þau",
+      "conjugation": "eiga"
+    }
+  ],
+  "þátið": [
+    {
+      "pronoun": "Ég",
+      "conjugation": "átti"
+    },
+    {
+      "pronoun": "Þú",
+      "conjugation": "áttir"
+    },
+    {
+      "pronoun": "Hann/Hún/Það",
+      "conjugation": "átti"
+    },
+    {
+      "pronoun": "Við",
+      "conjugation": "áttum"
+    },
+    {
+      "pronoun": "Þið",
+      "conjugation": "áttuð"
+    },
+    {
+      "pronoun": "Þeir/Þær/Þau",
+      "conjugation": "áttu"
+    }
+  ],
+  "lþ": {
+    "conjugation": "átt"
+  }
+}

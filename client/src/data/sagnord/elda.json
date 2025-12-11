@@ -1,0 +1,61 @@
+{
+  "íslensku": "að elda",
+  "ensku": "to cook",
+  "difficulty": 1,
+  "group": 1,
+  "nútið": [
+    {
+      "pronoun": "Ég",
+      "conjugation": "elda"
+    },
+    {
+      "pronoun": "Þú",
+      "conjugation": "eldar"
+    },
+    {
+      "pronoun": "Hann/Hún/Það",
+      "conjugation": "eldar"
+    },
+    {
+      "pronoun": "Við",
+      "conjugation": "eldum"
+    },
+    {
+      "pronoun": "Þið",
+      "conjugation": "eldið"
+    },
+    {
+      "pronoun": "Þeir/Þær/Þau",
+      "conjugation": "elda"
+    }
+  ],
+  "þátið": [
+    {
+      "pronoun": "Ég",
+      "conjugation": "eldaði"
+    },
+    {
+      "pronoun": "Þú",
+      "conjugation": "eldaðir"
+    },
+    {
+      "pronoun": "Hann/Hún/Það",
+      "conjugation": "eldaði"
+    },
+    {
+      "pronoun": "Við",
+      "conjugation": "elduðum"
+    },
+    {
+      "pronoun": "Þið",
+      "conjugation": "elduðuð"
+    },
+    {
+      "pronoun": "Þeir/Þær/Þau",
+      "conjugation": "elduðu"
+    }
+  ],
+  "lþ": {
+    "conjugation": "eldað"
+  }
+}
