@@ -25,6 +25,9 @@ function VerbConjugation() {
   const [randomLthIndex, setRandomLthIndex] = useState(0);
 
   useEffect(() => {
+    // Scroll to top when component loads or verb changes
+    window.scrollTo(0, 0);
+    
     getVerbById(id)
       .then(data => {
         setVerb(data);

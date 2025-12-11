@@ -15,6 +15,9 @@ function VerbPractice() {
   const [tenseFilter, setTenseFilter] = useState('random');
 
   useEffect(() => {
+    // Scroll to top when component loads or verb changes
+    window.scrollTo(0, 0);
+    
     getVerbById(id)
       .then(data => {
         setVerb(data);
