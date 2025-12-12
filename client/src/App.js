@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import Overview from './components/Overview';
 import VerbConjugation from './components/VerbConjugation';
 import VerbPractice from './components/VerbPractice';
