@@ -80,7 +80,7 @@
     },
     {
       "pronoun": "Við",
-      "conjugation": "sofum",
+      "conjugation": "sváfum",
       "examples": [
         "Við [x] saman.",
         "Við [x] vel."
@@ -88,7 +88,7 @@
     },
     {
       "pronoun": "Þið",
-      "conjugation": "sofuð",
+      "conjugation": "sváfuð",
       "examples": [
         "Þið [x] of mikið.",
         "Þið [x] lengi."
@@ -96,7 +96,7 @@
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "sofu",
+      "conjugation": "sváfu",
       "examples": [
         "Þau [x] saman.",
         "Þeir [x] vel."
