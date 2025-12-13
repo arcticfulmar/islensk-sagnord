@@ -134,6 +134,13 @@ function ExamMode() {
     return '';
   };
 
+  const getTenseLabel = (tense) => {
+    if (tense === 'nútið') return 'nútið';
+    if (tense === 'þátið') return 'þátið';
+    if (tense === 'lþ') return 'l.þ.';
+    return '';
+  };
+
   const renderSentenceWithTile = (example, conjugation, verbIndex, questionIndex, tense) => {
     const key = `${verbIndex}-${questionIndex}`;
     const isRevealed = revealedItems[key];
@@ -152,6 +159,7 @@ function ExamMode() {
           {isRevealed ? conjugation : '...'}
         </span>
         {parts[1] || ''}
+        <span className="tense-label">({getTenseLabel(tense)})</span>
       </div>
     );
   };
