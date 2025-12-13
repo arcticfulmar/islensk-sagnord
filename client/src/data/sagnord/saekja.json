@@ -6,56 +6,109 @@
   "nútið": [
     {
       "pronoun": "Ég",
-      "conjugation": "sæki"
+      "conjugation": "sæki",
+      "examples": [
+        "Ég [x] börnin.",
+        "Ég [x] pakka."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "sækir"
+      "conjugation": "sækir",
+      "examples": [
+        "Þú [x] börnin.",
+        "Þú [x] pakka."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "sækir"
+      "conjugation": "sækir",
+      "examples": [
+        "Hún [x] börnin.",
+        "Hann [x] pakka."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "sækjum"
+      "conjugation": "sækjum",
+      "examples": [
+        "Við [x] börnin.",
+        "Við [x] pakka."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "sækið"
+      "conjugation": "sækið",
+      "examples": [
+        "Þið [x] börnin.",
+        "Þið [x] pakka."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "sækja"
+      "conjugation": "sækja",
+      "examples": [
+        "Þau [x] börnin.",
+        "Þeir [x] pakka."
+      ]
     }
   ],
   "þátið": [
     {
       "pronoun": "Ég",
-      "conjugation": "sótti"
+      "conjugation": "sótti",
+      "examples": [
+        "Ég [x] börnin í gær.",
+        "Ég [x] pakka."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "sóttir"
+      "conjugation": "sóttir",
+      "examples": [
+        "Þú [x] börnin.",
+        "Þú [x] pakka."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "sótti"
+      "conjugation": "sótti",
+      "examples": [
+        "Hún [x] börnin.",
+        "Hann [x] pakka."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "sóttum"
+      "conjugation": "sóttum",
+      "examples": [
+        "Við [x] börnin.",
+        "Við [x] pakka."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "sóttuð"
+      "conjugation": "sóttuð",
+      "examples": [
+        "Þið [x] börnin.",
+        "Þið [x] pakka."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "sóttu"
+      "conjugation": "sóttu",
+      "examples": [
+        "Þau [x] börnin.",
+        "Þeir [x] pakka."
+      ]
     }
   ],
   "lþ": {
-    "conjugation": "sótt"
+    "conjugation": "sótt",
+    "examples": [
+      "Ég hef [x] börnin.",
+      "Hún hefur [x] pakka.",
+      "Við höfum [x] börnin."
+    ]
   }
 }

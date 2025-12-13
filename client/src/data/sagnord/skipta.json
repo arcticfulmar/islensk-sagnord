@@ -6,56 +6,109 @@
   "nútið": [
     {
       "pronoun": "Ég",
-      "conjugation": "skipti"
+      "conjugation": "skipti",
+      "examples": [
+        "Ég [x] um pening.",
+        "Ég [x] málum."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "skiptir"
+      "conjugation": "skiptir",
+      "examples": [
+        "Þú [x] um pening.",
+        "Þú [x] málum."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "skiptir"
+      "conjugation": "skiptir",
+      "examples": [
+        "Hún [x] um pening.",
+        "Hann [x] málum."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "skiptum"
+      "conjugation": "skiptum",
+      "examples": [
+        "Við [x] um pening.",
+        "Við [x] málum."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "skiptið"
+      "conjugation": "skiptið",
+      "examples": [
+        "Þið [x] um pening.",
+        "Þið [x] málum."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "skipta"
+      "conjugation": "skipta",
+      "examples": [
+        "Þau [x] um pening.",
+        "Þeir [x] málum."
+      ]
     }
   ],
   "þátið": [
     {
       "pronoun": "Ég",
-      "conjugation": "skipti"
+      "conjugation": "skipti",
+      "examples": [
+        "Ég [x] um pening í gær.",
+        "Ég [x] málum."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "skiptir"
+      "conjugation": "skiptir",
+      "examples": [
+        "Þú [x] um pening.",
+        "Þú [x] málum."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "skipti"
+      "conjugation": "skipti",
+      "examples": [
+        "Hún [x] um pening.",
+        "Hann [x] málum."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "skiptum"
+      "conjugation": "skiptum",
+      "examples": [
+        "Við [x] um pening.",
+        "Við [x] málum."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "skiptuð"
+      "conjugation": "skiptuð",
+      "examples": [
+        "Þið [x] um pening.",
+        "Þið [x] málum."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "skiptu"
+      "conjugation": "skiptu",
+      "examples": [
+        "Þau [x] um pening.",
+        "Þeir [x] málum."
+      ]
     }
   ],
   "lþ": {
-    "conjugation": "skipt"
+    "conjugation": "skipt",
+    "examples": [
+      "Ég hef [x] um pening.",
+      "Hún hefur [x] málum.",
+      "Við höfum [x] um pening."
+    ]
   }
 }

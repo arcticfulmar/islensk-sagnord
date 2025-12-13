@@ -6,56 +6,109 @@
   "nútið": [
     {
       "pronoun": "Ég",
-      "conjugation": "geng"
+      "conjugation": "geng",
+      "examples": [
+        "Ég [x] í skólann á hverjum degi.",
+        "Ég [x] til vinnu."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "gengur"
+      "conjugation": "gengur",
+      "examples": [
+        "Þú [x] hratt.",
+        "Þú [x] í skólann."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "gengur"
+      "conjugation": "gengur",
+      "examples": [
+        "Hún [x] í vinnuna.",
+        "Hann [x] hægt."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "göngum"
+      "conjugation": "göngum",
+      "examples": [
+        "Við [x] saman.",
+        "Við [x] í skólann."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "gangið"
+      "conjugation": "gangið",
+      "examples": [
+        "Þið [x] of hratt.",
+        "Þið [x] saman."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "ganga"
+      "conjugation": "ganga",
+      "examples": [
+        "Þau [x] í skólann.",
+        "Þeir [x] saman."
+      ]
     }
   ],
   "þátið": [
     {
       "pronoun": "Ég",
-      "conjugation": "gekk"
+      "conjugation": "gekk",
+      "examples": [
+        "Ég [x] í skólann í gær.",
+        "Ég [x] heim."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "gekkst"
+      "conjugation": "gekkst",
+      "examples": [
+        "Þú [x] hratt.",
+        "Þú [x] í skólann."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "gekk"
+      "conjugation": "gekk",
+      "examples": [
+        "Hún [x] í vinnuna í gær.",
+        "Hann [x] heim."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "gengum"
+      "conjugation": "gengum",
+      "examples": [
+        "Við [x] saman.",
+        "Við [x] í skólann."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "genguð"
+      "conjugation": "genguð",
+      "examples": [
+        "Þið [x] of hratt.",
+        "Þið [x] saman."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "gengu"
+      "conjugation": "gengu",
+      "examples": [
+        "Þau [x] í skólann.",
+        "Þeir [x] saman."
+      ]
     }
   ],
   "lþ": {
-    "conjugation": "gengið"
+    "conjugation": "gengið",
+    "examples": [
+      "Ég hef [x] langt.",
+      "Hún hefur [x] í skólann.",
+      "Við höfum [x] saman."
+    ]
   }
 }

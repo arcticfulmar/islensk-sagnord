@@ -6,56 +6,109 @@
   "nútið": [
     {
       "pronoun": "Ég",
-      "conjugation": "sef"
+      "conjugation": "sef",
+      "examples": [
+        "Ég [x] vel.",
+        "Ég [x] á hverjum degi."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "sefur"
+      "conjugation": "sefur",
+      "examples": [
+        "Þú [x] of mikið.",
+        "Þú [x] vel."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "sefur"
+      "conjugation": "sefur",
+      "examples": [
+        "Hún [x] lengi.",
+        "Hann [x] vel."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "sofum"
+      "conjugation": "sofum",
+      "examples": [
+        "Við [x] saman.",
+        "Við [x] vel."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "sofið"
+      "conjugation": "sofið",
+      "examples": [
+        "Þið [x] of mikið.",
+        "Þið [x] lengi."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "sofa"
+      "conjugation": "sofa",
+      "examples": [
+        "Þau [x] saman.",
+        "Þeir [x] vel."
+      ]
     }
   ],
   "þátið": [
     {
       "pronoun": "Ég",
-      "conjugation": "svaf"
+      "conjugation": "svaf",
+      "examples": [
+        "Ég [x] vel í nótt.",
+        "Ég [x] lengi."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "svafst"
+      "conjugation": "svafst",
+      "examples": [
+        "Þú [x] of mikið.",
+        "Þú [x] vel."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "svaf"
+      "conjugation": "svaf",
+      "examples": [
+        "Hún [x] lengi í nótt.",
+        "Hann [x] vel."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "sofum"
+      "conjugation": "sofum",
+      "examples": [
+        "Við [x] saman.",
+        "Við [x] vel."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "sofuð"
+      "conjugation": "sofuð",
+      "examples": [
+        "Þið [x] of mikið.",
+        "Þið [x] lengi."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "sofu"
+      "conjugation": "sofu",
+      "examples": [
+        "Þau [x] saman.",
+        "Þeir [x] vel."
+      ]
     }
   ],
   "lþ": {
-    "conjugation": "sofið"
+    "conjugation": "sofið",
+    "examples": [
+      "Ég hef [x] vel.",
+      "Hún hefur [x] lengi.",
+      "Við höfum [x] saman."
+    ]
   }
 }

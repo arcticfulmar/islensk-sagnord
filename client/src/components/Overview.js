@@ -29,10 +29,20 @@ function Overview() {
   if (loading) return <div className="loading">Hleð...</div>;
   if (error) return <div className="error">Villa: {error}</div>;
 
+  const handleExamClick = () => {
+    navigate('/exam');
+  };
+
   return (
     <div className="container">
       <h1 className="page-title">🇮🇸 Íslensk sagnorð</h1>
       <p className="page-subtitle">Icelandic Verbs</p>
+      
+      <div className="button-group">
+        <button className="btn-exam" onClick={handleExamClick}>
+          Próf!
+        </button>
+      </div>
       
       <div className="verb-grid">
         {verbs.map(verb => (

@@ -5,56 +5,109 @@
   "nútið": [
     {
       "pronoun": "Ég",
-      "conjugation": "er"
+      "conjugation": "er",
+      "examples": [
+        "Ég [x] nemandi.",
+        "Ég [x] hér."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "ert"
+      "conjugation": "ert",
+      "examples": [
+        "Þú [x] góður vinur.",
+        "Þú [x] hér."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "er"
+      "conjugation": "er",
+      "examples": [
+        "Hún [x] kennari.",
+        "Hann [x] heima."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "erum"
+      "conjugation": "erum",
+      "examples": [
+        "Við [x] vinir.",
+        "Við [x] hér."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "eruð"
+      "conjugation": "eruð",
+      "examples": [
+        "Þið [x] saman.",
+        "Þið [x] vinir."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "eru"
+      "conjugation": "eru",
+      "examples": [
+        "Þau [x] nemendur.",
+        "Þeir [x] vinir."
+      ]
     }
   ],
   "þátið": [
     {
       "pronoun": "Ég",
-      "conjugation": "var"
+      "conjugation": "var",
+      "examples": [
+        "Ég [x] í skólanum í gær.",
+        "Ég [x] þreyttur."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "varst"
+      "conjugation": "varst",
+      "examples": [
+        "Þú [x] þreyttur.",
+        "Þú [x] heima."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "var"
+      "conjugation": "var",
+      "examples": [
+        "Hún [x] heima í gær.",
+        "Hann [x] þreyttur."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "vorum"
+      "conjugation": "vorum",
+      "examples": [
+        "Við [x] saman.",
+        "Við [x] þreyttir."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "voruð"
+      "conjugation": "voruð",
+      "examples": [
+        "Þið [x] saman.",
+        "Þið [x] þreyttir."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "voru"
+      "conjugation": "voru",
+      "examples": [
+        "Þau [x] heima.",
+        "Þeir [x] saman."
+      ]
     }
   ],
   "lþ": {
-    "conjugation": "verið"
+    "conjugation": "verið",
+    "examples": [
+      "Ég hef [x] hér áður.",
+      "Hún hefur [x] þreyttir.",
+      "Við höfum [x] saman."
+    ]
   }
 }

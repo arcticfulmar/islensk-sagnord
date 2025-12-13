@@ -5,56 +5,109 @@
   "nútið": [
     {
       "pronoun": "Ég",
-      "conjugation": "á"
+      "conjugation": "á",
+      "examples": [
+        "Ég [x] bíl.",
+        "Ég [x] hund."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "átt"
+      "conjugation": "átt",
+      "examples": [
+        "Þú [x] fallega bústaði.",
+        "Þú [x] kött."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "á"
+      "conjugation": "á",
+      "examples": [
+        "Hún [x] hús.",
+        "Hann [x] bíl."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "eigum"
+      "conjugation": "eigum",
+      "examples": [
+        "Við [x] sumarhús.",
+        "Við [x] bíl."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "eigið"
+      "conjugation": "eigið",
+      "examples": [
+        "Þið [x] stórt hús.",
+        "Þið [x] hund."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "eiga"
+      "conjugation": "eiga",
+      "examples": [
+        "Þau [x] bíl.",
+        "Þeir [x] kött."
+      ]
     }
   ],
   "þátið": [
     {
       "pronoun": "Ég",
-      "conjugation": "átti"
+      "conjugation": "átti",
+      "examples": [
+        "Ég [x] bíl áður.",
+        "Ég [x] hund."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "áttir"
+      "conjugation": "áttir",
+      "examples": [
+        "Þú [x] fallegt hús.",
+        "Þú [x] kött."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "átti"
+      "conjugation": "átti",
+      "examples": [
+        "Hún [x] hús áður.",
+        "Hann [x] bíl."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "áttum"
+      "conjugation": "áttum",
+      "examples": [
+        "Við [x] sumarhús.",
+        "Við [x] bíl."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "áttuð"
+      "conjugation": "áttuð",
+      "examples": [
+        "Þið [x] stórt hús.",
+        "Þið [x] kött."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "áttu"
+      "conjugation": "áttu",
+      "examples": [
+        "Þau [x] bíl áður.",
+        "Þeir [x] hund."
+      ]
     }
   ],
   "lþ": {
-    "conjugation": "átt"
+    "conjugation": "átt",
+    "examples": [
+      "Ég hef [x] bíl.",
+      "Hún hefur [x] hús.",
+      "Við höfum [x] hund."
+    ]
   }
 }

@@ -6,56 +6,109 @@
   "nútið": [
     {
       "pronoun": "Ég",
-      "conjugation": "fæ"
+      "conjugation": "fæ",
+      "examples": [
+        "Ég [x] gjöf í dag.",
+        "Ég [x] oft bréf."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "færð"
+      "conjugation": "færð",
+      "examples": [
+        "Þú [x] góða einkunn.",
+        "Þú [x] gjöf."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "fær"
+      "conjugation": "fær",
+      "examples": [
+        "Hún [x] oft tölvupóst.",
+        "Hann [x] peningar."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "fáum"
+      "conjugation": "fáum",
+      "examples": [
+        "Við [x] tölvupóst á hverjum degi.",
+        "Við [x] gjafir."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "fáið"
+      "conjugation": "fáið",
+      "examples": [
+        "Þið [x] oft gjafir.",
+        "Þið [x] peninga."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "fá"
+      "conjugation": "fá",
+      "examples": [
+        "Þau [x] tölvupóst.",
+        "Þeir [x] gjafir."
+      ]
     }
   ],
   "þátið": [
     {
       "pronoun": "Ég",
-      "conjugation": "fékk"
+      "conjugation": "fékk",
+      "examples": [
+        "Ég [x] gjöf í gær.",
+        "Ég [x] bréf."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "fékkst"
+      "conjugation": "fékkst",
+      "examples": [
+        "Þú [x] góða einkunn.",
+        "Þú [x] gjöf."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "fékk"
+      "conjugation": "fékk",
+      "examples": [
+        "Hún [x] tölvupóst í gær.",
+        "Hann [x] peninga."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "fengum"
+      "conjugation": "fengum",
+      "examples": [
+        "Við [x] tölvupóst í gær.",
+        "Við [x] gjafir."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "fenguð"
+      "conjugation": "fenguð",
+      "examples": [
+        "Þið [x] gjafir í gær.",
+        "Þið [x] peninga."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "fengu"
+      "conjugation": "fengu",
+      "examples": [
+        "Þau [x] tölvupóst.",
+        "Þeir [x] gjafir."
+      ]
     }
   ],
   "lþ": {
-    "conjugation": "fengið"
+    "conjugation": "fengið",
+    "examples": [
+      "Ég hef [x] gjöf.",
+      "Hún hefur [x] tölvupóst.",
+      "Við höfum [x] bréf."
+    ]
   }
 }

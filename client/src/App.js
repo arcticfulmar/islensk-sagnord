@@ -3,6 +3,7 @@ import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import Overview from './components/Overview';
 import VerbConjugation from './components/VerbConjugation';
 import VerbPractice from './components/VerbPractice';
+import ExamMode from './components/ExamMode';
 import './App.css';
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
       <div className="App">
         <Routes>
           <Route path="/" element={<Overview />} />
+          <Route path="/exam" element={<ExamMode />} />
           <Route path="/verb/:id" element={<VerbConjugation />} />
           <Route path="/verb/:id/practice" element={<VerbPractice />} />
         </Routes>

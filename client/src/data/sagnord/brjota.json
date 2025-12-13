@@ -6,56 +6,109 @@
   "nútið": [
     {
       "pronoun": "Ég",
-      "conjugation": "brýt"
+      "conjugation": "brýt",
+      "examples": [
+        "Ég [x] oft hluti.",
+        "Ég [x] aldrei loforð."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "brýtur"
+      "conjugation": "brýtur",
+      "examples": [
+        "Þú [x] alltaf glerið.",
+        "Þú [x] loforðið."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "brýtur"
+      "conjugation": "brýtur",
+      "examples": [
+        "Hún [x] aldrei reglurnar.",
+        "Hann [x] oft hluti."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "brjotum"
+      "conjugation": "brjotum",
+      "examples": [
+        "Við [x] aldrei reglurnar.",
+        "Við [x] oft hluti."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "brjotið"
+      "conjugation": "brjotið",
+      "examples": [
+        "Þið [x] oft hluti.",
+        "Þið [x] loforðið."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "brjóta"
+      "conjugation": "brjóta",
+      "examples": [
+        "Þau [x] aldrei reglurnar.",
+        "Þeir [x] oft hluti."
+      ]
     }
   ],
   "þátið": [
     {
       "pronoun": "Ég",
-      "conjugation": "braut"
+      "conjugation": "braut",
+      "examples": [
+        "Ég [x] glerið í gær.",
+        "Ég [x] loforðið mitt."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "braust"
+      "conjugation": "braust",
+      "examples": [
+        "Þú [x] fótinn.",
+        "Þú [x] glerið."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "braut"
+      "conjugation": "braut",
+      "examples": [
+        "Hún [x] loforðið.",
+        "Hann [x] fótinn."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "brutum"
+      "conjugation": "brutum",
+      "examples": [
+        "Við [x] gluggann.",
+        "Við [x] reglurnar."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "brutuð"
+      "conjugation": "brutuð",
+      "examples": [
+        "Þið [x] loforðið.",
+        "Þið [x] glerið."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "brutu"
+      "conjugation": "brutu",
+      "examples": [
+        "Þau [x] reglurnar.",
+        "Þeir [x] gluggann."
+      ]
     }
   ],
   "lþ": {
-    "conjugation": "brotið"
+    "conjugation": "brotið",
+    "examples": [
+      "Ég hef [x] fótinn.",
+      "Hún hefur [x] loforðið.",
+      "Við höfum [x] glerið."
+    ]
   }
 }

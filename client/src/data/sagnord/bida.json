@@ -6,56 +6,109 @@
   "nútið": [
     {
       "pronoun": "Ég",
-      "conjugation": "bíð"
+      "conjugation": "bíð",
+      "examples": [
+        "Ég [x] eftir strætó.",
+        "Ég [x] hér."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "bíður"
+      "conjugation": "bíður",
+      "examples": [
+        "Þú [x] eftir mér.",
+        "Hversu lengi [x] þú?"
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "bíður"
+      "conjugation": "bíður",
+      "examples": [
+        "Hún [x] eftir þér.",
+        "Hann [x] í röð."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "bíðum"
+      "conjugation": "bíðum",
+      "examples": [
+        "Við [x] eftir tölvupósti.",
+        "Við [x] hér saman."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "bíðið"
+      "conjugation": "bíðið",
+      "examples": [
+        "Þið [x] eftir strætó.",
+        "Hversu lengi [x] þið?"
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "bíða"
+      "conjugation": "bíða",
+      "examples": [
+        "Þau [x] eftir bíl.",
+        "Þeir [x] í röðinni."
+      ]
     }
   ],
   "þátið": [
     {
       "pronoun": "Ég",
-      "conjugation": "beið"
+      "conjugation": "beið",
+      "examples": [
+        "Ég [x] eftir þér í gær.",
+        "Ég [x] lengi."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "beiðst"
+      "conjugation": "beiðst",
+      "examples": [
+        "Þú [x] í tíma.",
+        "Hversu lengi [x] þú?"
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "beið"
+      "conjugation": "beið",
+      "examples": [
+        "Hún [x] eftir strætó.",
+        "Hann [x] lengi í gær."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "biðum"
+      "conjugation": "biðum",
+      "examples": [
+        "Við [x] eftir þér.",
+        "Við [x] í tvo tíma."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "biðuð"
+      "conjugation": "biðuð",
+      "examples": [
+        "Þið [x] eftir mér.",
+        "Hversu lengi [x] þið?"
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "biðu"
+      "conjugation": "biðu",
+      "examples": [
+        "Þau [x] lengi.",
+        "Þeir [x] eftir bíl."
+      ]
     }
   ],
   "lþ": {
-    "conjugation": "beðið"
+    "conjugation": "beðið",
+    "examples": [
+      "Ég hef [x] lengi.",
+      "Hún hefur [x] eftir þér.",
+      "Við höfum [x] í tíma."
+    ]
   }
 }

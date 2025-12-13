@@ -5,56 +5,109 @@
   "nútið": [
     {
       "pronoun": "Ég",
-      "conjugation": "veit"
+      "conjugation": "veit",
+      "examples": [
+        "Ég [x] svarið.",
+        "Ég [x] það ekki."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "veist"
+      "conjugation": "veist",
+      "examples": [
+        "Þú [x] allt.",
+        "Þú [x] svarið."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "veit"
+      "conjugation": "veit",
+      "examples": [
+        "Hún [x] sannleikann.",
+        "Hann [x] svarið."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "vitum"
+      "conjugation": "vitum",
+      "examples": [
+        "Við [x] það ekki.",
+        "Við [x] svarið."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "vitið"
+      "conjugation": "vitið",
+      "examples": [
+        "Þið [x] allt.",
+        "Þið [x] svarið."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "vita"
+      "conjugation": "vita",
+      "examples": [
+        "Þau [x] sannleikann.",
+        "Þeir [x] svarið."
+      ]
     }
   ],
   "þátið": [
     {
       "pronoun": "Ég",
-      "conjugation": "vissi"
+      "conjugation": "vissi",
+      "examples": [
+        "Ég [x] það ekki.",
+        "Ég [x] svarið."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "vissir"
+      "conjugation": "vissir",
+      "examples": [
+        "Þú [x] það ekki.",
+        "Þú [x] svarið."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "vissi"
+      "conjugation": "vissi",
+      "examples": [
+        "Hún [x] sannleikann.",
+        "Hann [x] svarið."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "vissum"
+      "conjugation": "vissum",
+      "examples": [
+        "Við [x] það ekki.",
+        "Við [x] svarið."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "vissuð"
+      "conjugation": "vissuð",
+      "examples": [
+        "Þið [x] það ekki.",
+        "Þið [x] svarið."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "vissu"
+      "conjugation": "vissu",
+      "examples": [
+        "Þau [x] sannleikann.",
+        "Þeir [x] svarið."
+      ]
     }
   ],
   "lþ": {
-    "conjugation": "vitað"
+    "conjugation": "vitað",
+    "examples": [
+      "Ég hef [x] það lengi.",
+      "Hún hefur [x] svarið.",
+      "Við höfum [x] það ekki."
+    ]
   }
 }

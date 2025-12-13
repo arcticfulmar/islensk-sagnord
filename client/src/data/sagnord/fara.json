@@ -6,56 +6,109 @@
   "nútið": [
     {
       "pronoun": "Ég",
-      "conjugation": "fer"
+      "conjugation": "fer",
+      "examples": [
+        "Ég [x] í sund á hverjum degi.",
+        "Stundum [x] ég í búðina."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "ferð"
+      "conjugation": "ferð",
+      "examples": [
+        "Þú [x] í skólann í dag.",
+        "Hvenær [x] þú heim?"
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "fer"
+      "conjugation": "fer",
+      "examples": [
+        "Hún [x] í vinnuna klukkan átta.",
+        "Hann [x] oft í bíó."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "förum"
+      "conjugation": "förum",
+      "examples": [
+        "Við [x] í frí í sumar.",
+        "Á morgun [x] við í fjall."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "farið"
+      "conjugation": "farið",
+      "examples": [
+        "Þið [x] saman í skólann.",
+        "Hvenær [x] þið að sofa?"
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "fara"
+      "conjugation": "fara",
+      "examples": [
+        "Þau [x] í leikinn í kvöld.",
+        "Þeir [x] alltaf saman."
+      ]
     }
   ],
   "þátið": [
     {
       "pronoun": "Ég",
-      "conjugation": "fór"
+      "conjugation": "fór",
+      "examples": [
+        "Ég [x] í bíó í gær.",
+        "Í fyrra [x] ég til Spánar."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "fórst"
+      "conjugation": "fórst",
+      "examples": [
+        "Þú [x] snemma heim.",
+        "Hvenær [x] þú í búðina?"
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "fór"
+      "conjugation": "fór",
+      "examples": [
+        "Hún [x] í sund í morgun.",
+        "Hann [x] út í gær."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "fórum"
+      "conjugation": "fórum",
+      "examples": [
+        "Við [x] í frí í sumar.",
+        "Síðasta ár [x] við til Frakklands."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "fóruð"
+      "conjugation": "fóruð",
+      "examples": [
+        "Þið [x] saman í skólann.",
+        "Hvenær [x] þið heim?"
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "fóru"
+      "conjugation": "fóru",
+      "examples": [
+        "Þau [x] í leik í gærkvöldi.",
+        "Þeir [x] í búðina saman."
+      ]
     }
   ],
   "lþ": {
-    "conjugation": "farið"
+    "conjugation": "farið",
+    "examples": [
+      "Ég hef [x] í sund oft.",
+      "Hún hefur [x] til Íslands.",
+      "Við höfum [x] í frí saman."
+    ]
   }
 }

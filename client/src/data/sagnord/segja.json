@@ -6,56 +6,109 @@
   "nútið": [
     {
       "pronoun": "Ég",
-      "conjugation": "segi"
+      "conjugation": "segi",
+      "examples": [
+        "Ég [x] satt.",
+        "Ég [x] oft."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "segir"
+      "conjugation": "segir",
+      "examples": [
+        "Þú [x] sannleikann.",
+        "Þú [x] aldrei satt."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "segir"
+      "conjugation": "segir",
+      "examples": [
+        "Hún [x] söguna.",
+        "Hann [x] satt."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "segjum"
+      "conjugation": "segjum",
+      "examples": [
+        "Við [x] aldrei lygi.",
+        "Við [x] satt."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "segið"
+      "conjugation": "segið",
+      "examples": [
+        "Þið [x] of mikið.",
+        "Þið [x] satt."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "segja"
+      "conjugation": "segja",
+      "examples": [
+        "Þau [x] sannleikann.",
+        "Þeir [x] satt."
+      ]
     }
   ],
   "þátið": [
     {
       "pronoun": "Ég",
-      "conjugation": "sagði"
+      "conjugation": "sagði",
+      "examples": [
+        "Ég [x] sannleikann.",
+        "Ég [x] satt."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "sagðir"
+      "conjugation": "sagðir",
+      "examples": [
+        "Þú [x] lygi.",
+        "Þú [x] satt."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "sagði"
+      "conjugation": "sagði",
+      "examples": [
+        "Hún [x] söguna.",
+        "Hann [x] satt."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "sögðum"
+      "conjugation": "sögðum",
+      "examples": [
+        "Við [x] sannleikann.",
+        "Við [x] satt."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "sögðuð"
+      "conjugation": "sögðuð",
+      "examples": [
+        "Þið [x] of mikið.",
+        "Þið [x] satt."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "sögðu"
+      "conjugation": "sögðu",
+      "examples": [
+        "Þau [x] sannleikann.",
+        "Þeir [x] satt."
+      ]
     }
   ],
   "lþ": {
-    "conjugation": "sagt"
+    "conjugation": "sagt",
+    "examples": [
+      "Ég hef [x] satt.",
+      "Hún hefur [x] lygi.",
+      "Við höfum [x] sannleikann."
+    ]
   }
 }

@@ -6,56 +6,109 @@
   "nútið": [
     {
       "pronoun": "Ég",
-      "conjugation": "get"
+      "conjugation": "get",
+      "examples": [
+        "Ég [x] að hjálpa þér.",
+        "Ég [x] að synda."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "getur"
+      "conjugation": "getur",
+      "examples": [
+        "Þú [x] að gera það.",
+        "Þú [x] að hjálpa."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "getur"
+      "conjugation": "getur",
+      "examples": [
+        "Hún [x] að synda vel.",
+        "Hann [x] að hjálpa."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "getum"
+      "conjugation": "getum",
+      "examples": [
+        "Við [x] að hjálpa þér.",
+        "Við [x] að gera það."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "getið"
+      "conjugation": "getið",
+      "examples": [
+        "Þið [x] að koma.",
+        "Þið [x] að hjálpa."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "geta"
+      "conjugation": "geta",
+      "examples": [
+        "Þau [x] að synda.",
+        "Þeir [x] að hjálpa."
+      ]
     }
   ],
   "þátið": [
     {
       "pronoun": "Ég",
-      "conjugation": "gat"
+      "conjugation": "gat",
+      "examples": [
+        "Ég [x] að hjálpa þér í gær.",
+        "Ég [x] að koma."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "gast"
+      "conjugation": "gast",
+      "examples": [
+        "Þú [x] að gera það.",
+        "Þú [x] að synda."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "gat"
+      "conjugation": "gat",
+      "examples": [
+        "Hún [x] að synda vel.",
+        "Hann [x] að koma."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "gátum"
+      "conjugation": "gátum",
+      "examples": [
+        "Við [x] að hjálpa þér.",
+        "Við [x] að koma."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "gátuð"
+      "conjugation": "gátuð",
+      "examples": [
+        "Þið [x] að koma.",
+        "Þið [x] að hjálpa."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "gátu"
+      "conjugation": "gátu",
+      "examples": [
+        "Þau [x] að synda.",
+        "Þeir [x] að koma."
+      ]
     }
   ],
   "lþ": {
-    "conjugation": "getað"
+    "conjugation": "getað",
+    "examples": [
+      "Ég hef [x] að hjálpa.",
+      "Hún hefur [x] að synda.",
+      "Við höfum [x] að koma."
+    ]
   }
 }

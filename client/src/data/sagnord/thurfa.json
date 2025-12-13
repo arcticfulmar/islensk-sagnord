@@ -5,56 +5,109 @@
   "nútið": [
     {
       "pronoun": "Ég",
-      "conjugation": "þarf"
+      "conjugation": "þarf",
+      "examples": [
+        "Ég [x] að sofa.",
+        "Ég [x] mat."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "þarft"
+      "conjugation": "þarft",
+      "examples": [
+        "Þú [x] að hvíla.",
+        "Þú [x] hjálp."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "þarf"
+      "conjugation": "þarf",
+      "examples": [
+        "Hún [x] að læra.",
+        "Hann [x] hjálp."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "þurfum"
+      "conjugation": "þurfum",
+      "examples": [
+        "Við [x] að fara.",
+        "Við [x] mat."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "þurfið"
+      "conjugation": "þurfið",
+      "examples": [
+        "Þið [x] að læra.",
+        "Þið [x] hjálp."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "þurfa"
+      "conjugation": "þurfa",
+      "examples": [
+        "Þau [x] að fara.",
+        "Þeir [x] mat."
+      ]
     }
   ],
   "þátið": [
     {
       "pronoun": "Ég",
-      "conjugation": "þurfti"
+      "conjugation": "þurfti",
+      "examples": [
+        "Ég [x] að fara.",
+        "Ég [x] hjálp."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "þurftir"
+      "conjugation": "þurftir",
+      "examples": [
+        "Þú [x] að hvíla.",
+        "Þú [x] hjálp."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "þurfti"
+      "conjugation": "þurfti",
+      "examples": [
+        "Hún [x] að læra.",
+        "Hann [x] hjálp."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "þurftum"
+      "conjugation": "þurftum",
+      "examples": [
+        "Við [x] að fara.",
+        "Við [x] mat."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "þurftuð"
+      "conjugation": "þurftuð",
+      "examples": [
+        "Þið [x] að læra.",
+        "Þið [x] hjálp."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "þurftu"
+      "conjugation": "þurftu",
+      "examples": [
+        "Þau [x] að fara.",
+        "Þeir [x] mat."
+      ]
     }
   ],
   "lþ": {
-    "conjugation": "þurft"
+    "conjugation": "þurft",
+    "examples": [
+      "Ég hef [x] að fara.",
+      "Hún hefur [x] að læra.",
+      "Við höfum [x] hjálp."
+    ]
   }
 }

@@ -6,56 +6,109 @@
   "nútið": [
     {
       "pronoun": "Ég",
-      "conjugation": "elda"
+      "conjugation": "elda",
+      "examples": [
+        "Ég [x] matinn í dag.",
+        "Ég [x] oft."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "eldar"
+      "conjugation": "eldar",
+      "examples": [
+        "Þú [x] vel.",
+        "Þú [x] á hverjum degi."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "eldar"
+      "conjugation": "eldar",
+      "examples": [
+        "Hún [x] góðan mat.",
+        "Hann [x] oft."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "eldum"
+      "conjugation": "eldum",
+      "examples": [
+        "Við [x] matinn saman.",
+        "Við [x] á hverjum degi."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "eldið"
+      "conjugation": "eldið",
+      "examples": [
+        "Þið [x] góðan mat.",
+        "Þið [x] oft."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "elda"
+      "conjugation": "elda",
+      "examples": [
+        "Þau [x] saman.",
+        "Þeir [x] vel."
+      ]
     }
   ],
   "þátið": [
     {
       "pronoun": "Ég",
-      "conjugation": "eldaði"
+      "conjugation": "eldaði",
+      "examples": [
+        "Ég [x] matinn í gær.",
+        "Ég [x] góðan mat."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "eldaðir"
+      "conjugation": "eldaðir",
+      "examples": [
+        "Þú [x] vel í gær.",
+        "Þú [x] matinn."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "eldaði"
+      "conjugation": "eldaði",
+      "examples": [
+        "Hún [x] góðan mat.",
+        "Hann [x] í gærkvöldi."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "elduðum"
+      "conjugation": "elduðum",
+      "examples": [
+        "Við [x] matinn saman.",
+        "Við [x] í gær."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "elduðuð"
+      "conjugation": "elduðuð",
+      "examples": [
+        "Þið [x] góðan mat.",
+        "Þið [x] í gær."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "elduðu"
+      "conjugation": "elduðu",
+      "examples": [
+        "Þau [x] saman.",
+        "Þeir [x] vel."
+      ]
     }
   ],
   "lþ": {
-    "conjugation": "eldað"
+    "conjugation": "eldað",
+    "examples": [
+      "Ég hef [x] oft.",
+      "Hún hefur [x] vel.",
+      "Við höfum [x] saman."
+    ]
   }
 }

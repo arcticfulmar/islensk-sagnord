@@ -6,56 +6,109 @@
   "nútið": [
     {
       "pronoun": "Ég",
-      "conjugation": "breyti"
+      "conjugation": "breyti",
+      "examples": [
+        "Ég [x] oft um skoðun.",
+        "Ég [x] hárinu mínu."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "breytir"
+      "conjugation": "breytir",
+      "examples": [
+        "Þú [x] aldrei um skoðun.",
+        "Þú [x] loftinu í herberginu."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "breytir"
+      "conjugation": "breytir",
+      "examples": [
+        "Hún [x] oft um skoðun.",
+        "Hann [x] áætluninni."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "breytum"
+      "conjugation": "breytum",
+      "examples": [
+        "Við [x] áætluninni.",
+        "Við [x] ekki um skoðun."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "breytið"
+      "conjugation": "breytið",
+      "examples": [
+        "Þið [x] oft um skoðun.",
+        "Þið [x] öllu."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "breyta"
+      "conjugation": "breyta",
+      "examples": [
+        "Þau [x] áætluninni.",
+        "Þeir [x] oft um skoðun."
+      ]
     }
   ],
   "þátið": [
     {
       "pronoun": "Ég",
-      "conjugation": "breytti"
+      "conjugation": "breytti",
+      "examples": [
+        "Ég [x] um skoðun í gær.",
+        "Ég [x] herberginu mínu."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "breyttir"
+      "conjugation": "breyttir",
+      "examples": [
+        "Þú [x] um skoðun.",
+        "Þú [x] áætluninni."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "breytti"
+      "conjugation": "breytti",
+      "examples": [
+        "Hún [x] hárinu sínu.",
+        "Hann [x] um skoðun."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "breyttum"
+      "conjugation": "breyttum",
+      "examples": [
+        "Við [x] áætluninni.",
+        "Við [x] um skoðun."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "breyttuð"
+      "conjugation": "breyttuð",
+      "examples": [
+        "Þið [x] öllu.",
+        "Þið [x] áætluninni."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "breyttu"
+      "conjugation": "breyttu",
+      "examples": [
+        "Þau [x] áætluninni.",
+        "Þeir [x] um skoðun."
+      ]
     }
   ],
   "lþ": {
-    "conjugation": "breytt"
+    "conjugation": "breytt",
+    "examples": [
+      "Ég hef [x] um skoðun.",
+      "Hún hefur [x] hárinu sínu.",
+      "Við höfum [x] áætluninni."
+    ]
   }
 }

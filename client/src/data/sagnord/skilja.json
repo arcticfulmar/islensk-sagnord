@@ -6,56 +6,109 @@
   "nútið": [
     {
       "pronoun": "Ég",
-      "conjugation": "skil"
+      "conjugation": "skil",
+      "examples": [
+        "Ég [x] þetta vel.",
+        "Ég [x] ekki."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "skilur"
+      "conjugation": "skilur",
+      "examples": [
+        "Þú [x] málið.",
+        "Þú [x] vel."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "skilur"
+      "conjugation": "skilur",
+      "examples": [
+        "Hún [x] þetta vel.",
+        "Hann [x] ekki."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "skiljum"
+      "conjugation": "skiljum",
+      "examples": [
+        "Við [x] þetta.",
+        "Við [x] vel."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "skiljið"
+      "conjugation": "skiljið",
+      "examples": [
+        "Þið [x] þetta vel.",
+        "Þið [x] ekki."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "skilja"
+      "conjugation": "skilja",
+      "examples": [
+        "Þau [x] málið.",
+        "Þeir [x] vel."
+      ]
     }
   ],
   "þátið": [
     {
       "pronoun": "Ég",
-      "conjugation": "skildi"
+      "conjugation": "skildi",
+      "examples": [
+        "Ég [x] þetta í gær.",
+        "Ég [x] ekki."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "skildir"
+      "conjugation": "skildir",
+      "examples": [
+        "Þú [x] málið.",
+        "Þú [x] vel."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "skildi"
+      "conjugation": "skildi",
+      "examples": [
+        "Hún [x] þetta vel.",
+        "Hann [x] ekki."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "skildum"
+      "conjugation": "skildum",
+      "examples": [
+        "Við [x] þetta.",
+        "Við [x] vel."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "skilduð"
+      "conjugation": "skilduð",
+      "examples": [
+        "Þið [x] þetta vel.",
+        "Þið [x] ekki."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "skildu"
+      "conjugation": "skildu",
+      "examples": [
+        "Þau [x] málið.",
+        "Þeir [x] vel."
+      ]
     }
   ],
   "lþ": {
-    "conjugation": "skilið"
+    "conjugation": "skilið",
+    "examples": [
+      "Ég hef [x] þetta.",
+      "Hún hefur [x] málið.",
+      "Við höfum [x] vel."
+    ]
   }
 }

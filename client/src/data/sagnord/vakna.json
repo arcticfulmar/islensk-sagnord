@@ -6,56 +6,109 @@
   "nútið": [
     {
       "pronoun": "Ég",
-      "conjugation": "vakna"
+      "conjugation": "vakna",
+      "examples": [
+        "Ég [x] snemma.",
+        "Ég [x] klukkan sjö."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "vaknar"
+      "conjugation": "vaknar",
+      "examples": [
+        "Þú [x] of seint.",
+        "Þú [x] snemma."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "vaknar"
+      "conjugation": "vaknar",
+      "examples": [
+        "Hún [x] snemma.",
+        "Hann [x] seint."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "vöknum"
+      "conjugation": "vöknum",
+      "examples": [
+        "Við [x] saman.",
+        "Við [x] snemma."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "vaknið"
+      "conjugation": "vaknið",
+      "examples": [
+        "Þið [x] of seint.",
+        "Þið [x] snemma."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "vakna"
+      "conjugation": "vakna",
+      "examples": [
+        "Þau [x] saman.",
+        "Þeir [x] snemma."
+      ]
     }
   ],
   "þátið": [
     {
       "pronoun": "Ég",
-      "conjugation": "vaknaði"
+      "conjugation": "vaknaði",
+      "examples": [
+        "Ég [x] snemma í morgun.",
+        "Ég [x] klukkan sjö."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "vaknaðir"
+      "conjugation": "vaknaðir",
+      "examples": [
+        "Þú [x] of seint.",
+        "Þú [x] snemma."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "vaknaði"
+      "conjugation": "vaknaði",
+      "examples": [
+        "Hún [x] snemma.",
+        "Hann [x] seint."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "vöknuðum"
+      "conjugation": "vöknuðum",
+      "examples": [
+        "Við [x] saman.",
+        "Við [x] snemma."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "vöknuðuð"
+      "conjugation": "vöknuðuð",
+      "examples": [
+        "Þið [x] of seint.",
+        "Þið [x] snemma."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "vöknuðu"
+      "conjugation": "vöknuðu",
+      "examples": [
+        "Þau [x] saman.",
+        "Þeir [x] snemma."
+      ]
     }
   ],
   "lþ": {
-    "conjugation": "vaknað"
+    "conjugation": "vaknað",
+    "examples": [
+      "Ég hef [x] snemma.",
+      "Hún hefur [x] seint.",
+      "Við höfum [x] saman."
+    ]
   }
 }

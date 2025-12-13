@@ -6,56 +6,109 @@
   "nútið": [
     {
       "pronoun": "Ég",
-      "conjugation": "drekk"
+      "conjugation": "drekk",
+      "examples": [
+        "Ég [x] kaffi á hverjum degi.",
+        "Ég [x] vatn."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "drekkur"
+      "conjugation": "drekkur",
+      "examples": [
+        "Þú [x] of mikið kaffi.",
+        "Þú [x] mjólk."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "drekkur"
+      "conjugation": "drekkur",
+      "examples": [
+        "Hún [x] te á morgnana.",
+        "Hann [x] mjólk."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "drekkum"
+      "conjugation": "drekkum",
+      "examples": [
+        "Við [x] vatn saman.",
+        "Við [x] kaffi."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "drekkið"
+      "conjugation": "drekkið",
+      "examples": [
+        "Þið [x] of mikið kaffi.",
+        "Þið [x] vatn."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "drekka"
+      "conjugation": "drekka",
+      "examples": [
+        "Þau [x] mjólk.",
+        "Þeir [x] kaffi."
+      ]
     }
   ],
   "þátið": [
     {
       "pronoun": "Ég",
-      "conjugation": "drakk"
+      "conjugation": "drakk",
+      "examples": [
+        "Ég [x] kaffi í morgun.",
+        "Ég [x] vatn í gær."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "drakkst"
+      "conjugation": "drakkst",
+      "examples": [
+        "Þú [x] of mikið.",
+        "Þú [x] mjólk."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "drakk"
+      "conjugation": "drakk",
+      "examples": [
+        "Hún [x] te í morgun.",
+        "Hann [x] vatn."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "drukkum"
+      "conjugation": "drukkum",
+      "examples": [
+        "Við [x] vatn í gær.",
+        "Við [x] kaffi."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "drukkuð"
+      "conjugation": "drukkuð",
+      "examples": [
+        "Þið [x] of mikið.",
+        "Þið [x] vatn."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "drukku"
+      "conjugation": "drukku",
+      "examples": [
+        "Þau [x] mjólk.",
+        "Þeir [x] kaffi."
+      ]
     }
   ],
   "lþ": {
-    "conjugation": "drukkið"
+    "conjugation": "drukkið",
+    "examples": [
+      "Ég hef [x] kaffi.",
+      "Hún hefur [x] vatn.",
+      "Við höfum [x] te."
+    ]
   }
 }

@@ -6,56 +6,109 @@
   "nútið": [
     {
       "pronoun": "Ég",
-      "conjugation": "reyni"
+      "conjugation": "reyni",
+      "examples": [
+        "Ég [x] að læra.",
+        "Ég [x] oft."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "reynir"
+      "conjugation": "reynir",
+      "examples": [
+        "Þú [x] það aftur.",
+        "Þú [x] oft."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "reynir"
+      "conjugation": "reynir",
+      "examples": [
+        "Hún [x] að læra.",
+        "Hann [x] aftur."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "reynum"
+      "conjugation": "reynum",
+      "examples": [
+        "Við [x] saman.",
+        "Við [x] aftur."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "reynið"
+      "conjugation": "reynið",
+      "examples": [
+        "Þið [x] oft.",
+        "Þið [x] aftur."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "reyna"
+      "conjugation": "reyna",
+      "examples": [
+        "Þau [x] að læra.",
+        "Þeir [x] aftur."
+      ]
     }
   ],
   "þátið": [
     {
       "pronoun": "Ég",
-      "conjugation": "reyndi"
+      "conjugation": "reyndi",
+      "examples": [
+        "Ég [x] að læra í gær.",
+        "Ég [x] oft."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "reyndir"
+      "conjugation": "reyndir",
+      "examples": [
+        "Þú [x] það aftur.",
+        "Þú [x] oft."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "reyndi"
+      "conjugation": "reyndi",
+      "examples": [
+        "Hún [x] að læra.",
+        "Hann [x] aftur."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "reyndum"
+      "conjugation": "reyndum",
+      "examples": [
+        "Við [x] saman.",
+        "Við [x] aftur."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "reynduð"
+      "conjugation": "reynduð",
+      "examples": [
+        "Þið [x] oft.",
+        "Þið [x] aftur."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "reyndu"
+      "conjugation": "reyndu",
+      "examples": [
+        "Þau [x] að læra.",
+        "Þeir [x] aftur."
+      ]
     }
   ],
   "lþ": {
-    "conjugation": "reynt"
+    "conjugation": "reynt",
+    "examples": [
+      "Ég hef [x] oft.",
+      "Hún hefur [x] að læra.",
+      "Við höfum [x] saman."
+    ]
   }
 }

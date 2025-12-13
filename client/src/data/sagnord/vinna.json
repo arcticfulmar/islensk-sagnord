@@ -6,56 +6,109 @@
   "nútið": [
     {
       "pronoun": "Ég",
-      "conjugation": "vinn"
+      "conjugation": "vinn",
+      "examples": [
+        "Ég [x] mikið.",
+        "Ég [x] á hverjum degi."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "vinnur"
+      "conjugation": "vinnur",
+      "examples": [
+        "Þú [x] of mikið.",
+        "Þú [x] í dag."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "vinnur"
+      "conjugation": "vinnur",
+      "examples": [
+        "Hún [x] á sjúkrahúsi.",
+        "Hann [x] mikið."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "vinnum"
+      "conjugation": "vinnum",
+      "examples": [
+        "Við [x] saman.",
+        "Við [x] á hverjum degi."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "vinnið"
+      "conjugation": "vinnið",
+      "examples": [
+        "Þið [x] of mikið.",
+        "Þið [x] saman."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "vinna"
+      "conjugation": "vinna",
+      "examples": [
+        "Þau [x] saman.",
+        "Þeir [x] mikið."
+      ]
     }
   ],
   "þátið": [
     {
       "pronoun": "Ég",
-      "conjugation": "vann"
+      "conjugation": "vann",
+      "examples": [
+        "Ég [x] mikið í gær.",
+        "Ég [x] lengi."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "vannst"
+      "conjugation": "vannst",
+      "examples": [
+        "Þú [x] of mikið.",
+        "Þú [x] í gær."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "vann"
+      "conjugation": "vann",
+      "examples": [
+        "Hún [x] á sjúkrahúsi.",
+        "Hann [x] mikið."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "unnum"
+      "conjugation": "unnum",
+      "examples": [
+        "Við [x] saman.",
+        "Við [x] í gær."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "unnuð"
+      "conjugation": "unnuð",
+      "examples": [
+        "Þið [x] of mikið.",
+        "Þið [x] saman."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "unnu"
+      "conjugation": "unnu",
+      "examples": [
+        "Þau [x] saman.",
+        "Þeir [x] mikið."
+      ]
     }
   ],
   "lþ": {
-    "conjugation": "unnið"
+    "conjugation": "unnið",
+    "examples": [
+      "Ég hef [x] mikið.",
+      "Hún hefur [x] lengi.",
+      "Við höfum [x] saman."
+    ]
   }
 }

@@ -5,56 +5,109 @@
   "nútið": [
     {
       "pronoun": "Ég",
-      "conjugation": "hef"
+      "conjugation": "hef",
+      "examples": [
+        "Ég [x] tíma í dag.",
+        "Ég [x] peninga."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "hefur"
+      "conjugation": "hefur",
+      "examples": [
+        "Þú [x] góða hugmynd.",
+        "Þú [x] tíma."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "hefur"
+      "conjugation": "hefur",
+      "examples": [
+        "Hún [x] bíl.",
+        "Hann [x] peninga."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "höfum"
+      "conjugation": "höfum",
+      "examples": [
+        "Við [x] tíma.",
+        "Við [x] peninga."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "hafið"
+      "conjugation": "hafið",
+      "examples": [
+        "Þið [x] rétt.",
+        "Þið [x] tíma."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "hafa"
+      "conjugation": "hafa",
+      "examples": [
+        "Þau [x] tíma.",
+        "Þeir [x] peninga."
+      ]
     }
   ],
   "þátið": [
     {
       "pronoun": "Ég",
-      "conjugation": "hafði"
+      "conjugation": "hafði",
+      "examples": [
+        "Ég [x] tíma í gær.",
+        "Ég [x] peninga."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "hafðir"
+      "conjugation": "hafðir",
+      "examples": [
+        "Þú [x] rétt.",
+        "Þú [x] tíma."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "hafði"
+      "conjugation": "hafði",
+      "examples": [
+        "Hún [x] bíl áður.",
+        "Hann [x] peninga."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "höfðum"
+      "conjugation": "höfðum",
+      "examples": [
+        "Við [x] tíma.",
+        "Við [x] peninga."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "höfðuð"
+      "conjugation": "höfðuð",
+      "examples": [
+        "Þið [x] rétt.",
+        "Þið [x] tíma."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "höfðu"
+      "conjugation": "höfðu",
+      "examples": [
+        "Þau [x] tíma.",
+        "Þeir [x] peninga."
+      ]
     }
   ],
   "lþ": {
-    "conjugation": "haft"
+    "conjugation": "haft",
+    "examples": [
+      "Ég hef [x] tíma.",
+      "Hún hefur [x] peninga.",
+      "Við höfum [x] gaman."
+    ]
   }
 }

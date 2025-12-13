@@ -6,56 +6,109 @@
   "nútið": [
     {
       "pronoun": "Ég",
-      "conjugation": "hlusta"
+      "conjugation": "hlusta",
+      "examples": [
+        "Ég [x] á tónlist.",
+        "Ég [x] oft."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "hlustar"
+      "conjugation": "hlustar",
+      "examples": [
+        "Þú [x] á kennarann.",
+        "Þú [x] vel."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "hlustar"
+      "conjugation": "hlustar",
+      "examples": [
+        "Hún [x] á tónlist.",
+        "Hann [x] vel."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "hlustum"
+      "conjugation": "hlustum",
+      "examples": [
+        "Við [x] saman.",
+        "Við [x] á tónlist."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "hlustið"
+      "conjugation": "hlustið",
+      "examples": [
+        "Þið [x] aldrei.",
+        "Þið [x] vel."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "hlusta"
+      "conjugation": "hlusta",
+      "examples": [
+        "Þau [x] á tónlist.",
+        "Þeir [x] vel."
+      ]
     }
   ],
   "þátið": [
     {
       "pronoun": "Ég",
-      "conjugation": "hlustaði"
+      "conjugation": "hlustaði",
+      "examples": [
+        "Ég [x] á tónlist í gær.",
+        "Ég [x] vel."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "hlustaðir"
+      "conjugation": "hlustaðir",
+      "examples": [
+        "Þú [x] á kennarann.",
+        "Þú [x] vel."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "hlustaði"
+      "conjugation": "hlustaði",
+      "examples": [
+        "Hún [x] á tónlist.",
+        "Hann [x] vel."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "hlustuðum"
+      "conjugation": "hlustuðum",
+      "examples": [
+        "Við [x] saman.",
+        "Við [x] á tónlist."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "hlustuðuð"
+      "conjugation": "hlustuðuð",
+      "examples": [
+        "Þið [x] aldrei.",
+        "Þið [x] vel."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "hlustuðu"
+      "conjugation": "hlustuðu",
+      "examples": [
+        "Þau [x] á tónlist.",
+        "Þeir [x] vel."
+      ]
     }
   ],
   "lþ": {
-    "conjugation": "hlustað"
+    "conjugation": "hlustað",
+    "examples": [
+      "Ég hef [x] á tónlist.",
+      "Hún hefur [x] vel.",
+      "Við höfum [x] saman."
+    ]
   }
 }

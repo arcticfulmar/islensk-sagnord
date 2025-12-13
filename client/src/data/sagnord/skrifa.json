@@ -6,56 +6,109 @@
   "nútið": [
     {
       "pronoun": "Ég",
-      "conjugation": "skrifa"
+      "conjugation": "skrifa",
+      "examples": [
+        "Ég [x] bréf.",
+        "Ég [x] á hverjum degi."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "skrifar"
+      "conjugation": "skrifar",
+      "examples": [
+        "Þú [x] vel.",
+        "Þú [x] tölvupóst."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "skrifar"
+      "conjugation": "skrifar",
+      "examples": [
+        "Hún [x] bók.",
+        "Hann [x] bréf."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "skrifum"
+      "conjugation": "skrifum",
+      "examples": [
+        "Við [x] saman.",
+        "Við [x] bréf."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "skrifið"
+      "conjugation": "skrifið",
+      "examples": [
+        "Þið [x] vel.",
+        "Þið [x] oft."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "skrifa"
+      "conjugation": "skrifa",
+      "examples": [
+        "Þau [x] saman.",
+        "Þeir [x] bréf."
+      ]
     }
   ],
   "þátið": [
     {
       "pronoun": "Ég",
-      "conjugation": "skrifaði"
+      "conjugation": "skrifaði",
+      "examples": [
+        "Ég [x] bréf í gær.",
+        "Ég [x] tölvupóst."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "skrifaðir"
+      "conjugation": "skrifaðir",
+      "examples": [
+        "Þú [x] vel.",
+        "Þú [x] bréf."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "skrifaði"
+      "conjugation": "skrifaði",
+      "examples": [
+        "Hún [x] bók.",
+        "Hann [x] bréf."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "skrifuðum"
+      "conjugation": "skrifuðum",
+      "examples": [
+        "Við [x] saman.",
+        "Við [x] bréf."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "skrifuðuð"
+      "conjugation": "skrifuðuð",
+      "examples": [
+        "Þið [x] vel.",
+        "Þið [x] bréf."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "skrifuðu"
+      "conjugation": "skrifuðu",
+      "examples": [
+        "Þau [x] saman.",
+        "Þeir [x] bréf."
+      ]
     }
   ],
   "lþ": {
-    "conjugation": "skrifað"
+    "conjugation": "skrifað",
+    "examples": [
+      "Ég hef [x] bréf.",
+      "Hún hefur [x] bók.",
+      "Við höfum [x] saman."
+    ]
   }
 }

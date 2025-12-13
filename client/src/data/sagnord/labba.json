@@ -6,56 +6,109 @@
   "nútið": [
     {
       "pronoun": "Ég",
-      "conjugation": "labba"
+      "conjugation": "labba",
+      "examples": [
+        "Ég [x] heim.",
+        "Ég [x] í skólann."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "labbar"
+      "conjugation": "labbar",
+      "examples": [
+        "Þú [x] hratt.",
+        "Þú [x] heim."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "labbar"
+      "conjugation": "labbar",
+      "examples": [
+        "Hún [x] í skólann.",
+        "Hann [x] heim."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "löbbum"
+      "conjugation": "löbbum",
+      "examples": [
+        "Við [x] saman.",
+        "Við [x] heim."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "labbið"
+      "conjugation": "labbið",
+      "examples": [
+        "Þið [x] of hratt.",
+        "Þið [x] saman."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "labba"
+      "conjugation": "labba",
+      "examples": [
+        "Þau [x] í skólann.",
+        "Þeir [x] saman."
+      ]
     }
   ],
   "þátið": [
     {
       "pronoun": "Ég",
-      "conjugation": "labbaði"
+      "conjugation": "labbaði",
+      "examples": [
+        "Ég [x] heim í gær.",
+        "Ég [x] í skólann."
+      ]
     },
     {
       "pronoun": "Þú",
-      "conjugation": "labbaðir"
+      "conjugation": "labbaðir",
+      "examples": [
+        "Þú [x] hratt.",
+        "Þú [x] heim."
+      ]
     },
     {
       "pronoun": "Hann/Hún/Það",
-      "conjugation": "labbaði"
+      "conjugation": "labbaði",
+      "examples": [
+        "Hún [x] í skólann í gær.",
+        "Hann [x] heim."
+      ]
     },
     {
       "pronoun": "Við",
-      "conjugation": "löbbuðum"
+      "conjugation": "löbbuðum",
+      "examples": [
+        "Við [x] saman.",
+        "Við [x] heim."
+      ]
     },
     {
       "pronoun": "Þið",
-      "conjugation": "löbbuðuð"
+      "conjugation": "löbbuðuð",
+      "examples": [
+        "Þið [x] of hratt.",
+        "Þið [x] saman."
+      ]
     },
     {
       "pronoun": "Þeir/Þær/Þau",
-      "conjugation": "löbbuðu"
+      "conjugation": "löbbuðu",
+      "examples": [
+        "Þau [x] í skólann.",
+        "Þeir [x] saman."
+      ]
     }
   ],
   "lþ": {
-    "conjugation": "labbað"
+    "conjugation": "labbað",
+    "examples": [
+      "Ég hef [x] langt.",
+      "Hún hefur [x] heim.",
+      "Við höfum [x] saman."
+    ]
   }
 }

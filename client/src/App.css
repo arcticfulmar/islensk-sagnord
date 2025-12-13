@@ -125,6 +125,17 @@ button:active {
   background-color: #27ae60;
 }
 
+.btn-exam {
+  background-color: #ff8c00;
+  color: white;
+  font-size: 1.3rem;
+  padding: 15px 40px;
+}
+
+.btn-exam:hover {
+  background-color: #ff7700;
+}
+
 /* Verb Grid - Overview Page */
 .verb-grid {
   display: grid;
@@ -336,6 +347,96 @@ button:active {
   .page-subtitle {
     font-size: 1rem;
   }
+}
+
+/* Exam Mode */
+.exam-container {
+  margin-top: 30px;
+}
+
+.exam-verb-section {
+  background-color: white;
+  border-radius: 10px;
+  padding: 25px;
+  margin-bottom: 30px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.exam-verb-title {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #2c3e50;
+  margin-bottom: 20px;
+  border-bottom: 2px solid #3498db;
+  padding-bottom: 10px;
+}
+
+.exam-questions {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.exam-question {
+  padding: 15px;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+}
+
+.exam-sentence {
+  font-size: 1.2rem;
+  line-height: 1.8;
+  color: #2c3e50;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+.exam-emoji {
+  font-size: 1.3rem;
+  margin-right: 5px;
+  flex-shrink: 0;
+}
+
+.exam-sentence .conjugation-box {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 80px;
+  padding: 8px 15px;
+  margin: 0 5px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.2s;
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+
+.exam-sentence .conjugation-box.hidden {
+  background-color: #bdc3c7;
+  color: transparent;
+  user-select: none;
+}
+
+.exam-sentence .conjugation-box.revealed {
+  color: white;
+}
+
+.exam-sentence .conjugation-box.revealed.tense-nutid {
+  background-color: #3498db;
+}
+
+.exam-sentence .conjugation-box.revealed.tense-thatid {
+  background-color: #8B4513;
+}
+
+.exam-sentence .conjugation-box.revealed.tense-lth {
+  background-color: #FF8C00;
+}
+
+.exam-sentence .conjugation-box:hover {
+  transform: scale(1.05);
 }
 
 /* Footer */
